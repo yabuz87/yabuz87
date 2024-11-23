@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yabuz87&label=Profile%20views&color=0e75b6&style=flat" alt="yabuz87" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yabuz87.github.io/portfolio/](https://yabuz87.github.io/portfolio/)
-
 - 📫 How to reach me **jabezsolomonz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
