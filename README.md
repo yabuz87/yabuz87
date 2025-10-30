@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yabets Solomon</h1>
-<h3 align="center">A passionate MERN Stack development enthusiast, currently expanding my expertise into Machine Learning and AI and i am also working on realtime projects</h3>
+<h3 align="center">A passionate MERN Stack developer,CS major, currently expanding my expertise into Machine Learning AI and DS. i am also working on realtime projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yabuz87&label=Profile%20views&color=0e75b6&style=flat" alt="yabuz87" /> </p>
 
