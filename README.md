@@ -1,5 +1,5 @@
 <h1 align="center">welcome👋, this is Yabets</h1>
-<h3 align="center">MERN Stack dev,CS Major, expanding expertise into ML AI and DS. good to see you here :)</h3>
+<h3 align="center">CS Major | MERN Stack dev | diving into ML AI and DS. good to see you here :)</h3>
 
 
 
